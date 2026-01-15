@@ -83,6 +83,8 @@ This project studies optimal investment, production, transportation, and pricing
 
 The project models the system as a network optimization problem and incorporates production capacity constraints, investment costs, and logistics costs. To solve the resulting high-dimensional, non-convex optimization problem, evolutionary optimization methods are employed. In particular, a hybrid Whale Optimization Algorithm combined with Extreme Learning Machine (WOA-ELM) is used to search for optimal investment strategies under different parameter settings. An extended version of the model further incorporates strategic interactions and conflict dynamics between competing regions.
 
+[The code is at the very end of the article]
+
 
 ## Methods and Tools
 
